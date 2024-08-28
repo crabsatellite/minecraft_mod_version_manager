@@ -28,6 +28,26 @@
             "note": "Client-only, for cute mob"
         },
         {
+            "name": "Alex's Mobs",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+            "importance": "medium",
+            "versions": [
+                "1.20.1",
+                "1.20",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4"
+            ],
+            "note": "Good extra mobs"
+        },
+        {
             "name": "AmbientSounds 6",
             "url": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds",
             "importance": "medium",
@@ -213,6 +233,21 @@
             "note": "Client-only, to enhance the experience"
         },
         {
+            "name": "Furnish",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/furnish",
+            "importance": "high",
+            "versions": [
+                "1.20.1",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.16.5"
+            ],
+            "note": "Important construction mod"
+        },
+        {
             "name": "JourneyMap",
             "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
             "importance": "low",
@@ -287,6 +322,32 @@
                 "1.16.5"
             ],
             "note": "prerequisite for Supplementaries"
+        },
+        {
+            "name": "MrCrayfish's Furniture Mod (Legacy)",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod",
+            "importance": "high",
+            "versions": [
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.12.2",
+                "1.12.1",
+                "1.11.2",
+                "1.10.2",
+                "1.9.4",
+                "1.8.9",
+                "1.7.10"
+            ],
+            "note": "Important consturction mod"
         },
         {
             "name": "Oculus",
@@ -523,6 +584,23 @@
                 "1.7.10"
             ],
             "note": "Client-Only, just important"
+        },
+        {
+            "name": "Yuushya Townscape [Forge/Fabric]",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/yuushya-townscape",
+            "importance": "high",
+            "versions": [
+                "1.20.1",
+                "1.20",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.16.5"
+            ],
+            "note": "Extremely important construction mod"
         }
     ],
     "target_versions": [
