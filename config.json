@@ -924,7 +924,7 @@
         {
             "name": "Touhou Little Maid",
             "url": "https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid",
-            "importance": "",
+            "importance": "high",
             "versions": [
                 "1.20.1",
                 "1.20",
