@@ -1,8 +1,138 @@
 {
-    "mods": [],
+    "mods": [
+        {
+            "name": "Chisels & Bits - For Forge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits",
+            "importance": "low",
+            "versions": [
+                "1.20.4",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5",
+                "1.12.2",
+                "1.11.2",
+                "1.10.2",
+                "1.9.4",
+                "1.8.9"
+            ],
+            "note": "Very few usages"
+        },
+        {
+            "name": "Curios API (Forge/NeoForge)",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/curios",
+            "importance": "medium",
+            "versions": [
+                "1.20.6",
+                "1.20.4",
+                "1.20.3",
+                "1.20.2",
+                "1.20.1",
+                "1.20",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4",
+                "1.16.3",
+                "1.16.2",
+                "1.16.1",
+                "1.15.2",
+                "1.15.1",
+                "1.14.4",
+                "1.14.3",
+                "1.13.2"
+            ],
+            "note": "Prerequisite for The Aether"
+        },
+        {
+            "name": "CustomNPCs-Unofficial",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/customnpcs-unofficial",
+            "importance": "high",
+            "versions": [
+                "1.20.4",
+                "1.20.2",
+                "1.20.1",
+                "1.19.2",
+                "1.16.5"
+            ],
+            "note": "NPC is important, this is an unofficial version without tested, but better than nothing"
+        },
+        {
+            "name": "The Aether",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/aether",
+            "importance": "medium",
+            "versions": [
+                "1.20.4",
+                "1.20.2",
+                "1.20.1",
+                "1.19.4",
+                "1.19.2",
+                "1.12.2",
+                "1.7.10"
+            ],
+            "note": "Potential usage in the future && favorite by ScaRet && RPG"
+        },
+        {
+            "name": "WorldEdit",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/worldedit",
+            "importance": "high",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.6",
+                "1.20.4",
+                "1.20.2",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4",
+                "1.15.2",
+                "1.14.4",
+                "1.13.2",
+                "1.12.2",
+                "1.12.1",
+                "1.11.2",
+                "1.10.2",
+                "1.9.4",
+                "1.9",
+                "1.8.9",
+                "1.8",
+                "1.7.10"
+            ],
+            "note": "Just important"
+        }
+    ],
     "target_versions": [
         "1.19",
         "1.19.1",
-        "1.19.2"
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1"
     ]
 }

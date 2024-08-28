@@ -83,6 +83,7 @@ def confirm_and_edit_mod_info(mod_name, versions):
 
 
 # 编辑器界面
+# 编辑器界面
 def config_editor():
     config = {
         "mods": [],
@@ -104,12 +105,14 @@ def config_editor():
             importance = input("Enter the mod importance (low, medium, high): ")
             versions = input("Enter the supported versions (comma separated): ")
             versions = [v.strip() for v in versions.split(',')]
+            note = input("Enter any notes or remarks for the mod: ")
 
             config["mods"].append({
                 "name": mod_name,
                 "url": mod_url,
                 "importance": importance,
-                "versions": versions
+                "versions": versions,
+                "note": note
             })
 
         elif choice == "2":
@@ -120,23 +123,23 @@ def config_editor():
             if mod_name and versions:
                 mod_name, versions = confirm_and_edit_mod_info(mod_name, versions)
                 importance = input("Enter the mod importance (low, medium, high): ")
+                note = input("Enter any notes or remarks for the mod: ")
 
                 config["mods"].append({
                     "name": mod_name,
                     "url": mod_url,
                     "importance": importance,
-                    "versions": versions
+                    "versions": versions,
+                    "note": note
                 })
             else:
                 print("Failed to auto-parse the mod information. Please try again.")
-
 
         elif choice == "3":
             # 设置目标版本
             target_versions = input("Enter the target versions (comma separated): ")
             # 去重并排序
             config["target_versions"] = sorted(set([v.strip() for v in target_versions.split(',')]), reverse=True)
-
 
         elif choice == "4":
             print(config)
