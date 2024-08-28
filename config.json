@@ -110,6 +110,40 @@
             "note": "prerequisite for yussha"
         },
         {
+            "name": "Bad Mobs",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/bad-mobs",
+            "importance": "low",
+            "versions": [
+                "1.20.4",
+                "1.20.3",
+                "1.20.1",
+                "1.20",
+                "1.19.4",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4",
+                "1.16.3",
+                "1.16.1",
+                "1.15.2",
+                "1.14.4",
+                "1.13.2",
+                "1.12.2",
+                "1.12",
+                "1.11.2",
+                "1.10.2",
+                "1.9",
+                "1.8",
+                "1.7.10"
+            ],
+            "note": "ban mobs, has alternative mod"
+        },
+        {
             "name": "Balm (Forge Edition)",
             "url": "https://www.curseforge.com/minecraft/mc-mods/balm",
             "importance": "high",
@@ -132,6 +166,41 @@
                 "1.17.1"
             ],
             "note": "prerequisite for waystones"
+        },
+        {
+            "name": "Biomes O' Plenty",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
+            "importance": "high",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.6",
+                "1.20.4",
+                "1.20.2",
+                "1.20.1",
+                "1.20",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4",
+                "1.16.3",
+                "1.16.1",
+                "1.15.2",
+                "1.15.1",
+                "1.12.2",
+                "1.12.1",
+                "1.12",
+                "1.11.2",
+                "1.10.2",
+                "1.7.10"
+            ],
+            "note": "important biomes mod"
         },
         {
             "name": "Carry On",
@@ -253,6 +322,53 @@
             "note": "prerequisite for alex mob"
         },
         {
+            "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+            "importance": "medium",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.6",
+                "1.20.4",
+                "1.20.2",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4",
+                "1.16.1",
+                "1.15.2",
+                "1.14.4"
+            ],
+            "note": "prerequisite for Medieval Craft"
+        },
+        {
+            "name": "Connectivity[Forge/Fabric]",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+            "importance": "low",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.2",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5"
+            ],
+            "note": "enhance connectivity"
+        },
+        {
             "name": "CreativeCore",
             "url": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
             "importance": "high",
@@ -314,6 +430,20 @@
                 "1.7.10"
             ],
             "note": "Prevent the creeper damage to the blocks, many mods can replace"
+        },
+        {
+            "name": "Cupboard",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+            "importance": "low",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.2",
+                "1.20.1",
+                "1.19.2",
+                "1.18.2"
+            ],
+            "note": "prerequisite for connectivity"
         },
         {
             "name": "Curios API (Forge/NeoForge)",
@@ -380,6 +510,27 @@
                 "1.15.2"
             ],
             "note": "mod for dragons"
+        },
+        {
+            "name": "Epic Knights: Shields, Armor and Weapons [Fabric/Forge/NeoForge]",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons",
+            "importance": "high",
+            "versions": [
+                "1.21",
+                "1.20.2",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5",
+                "1.12.2"
+            ],
+            "note": "we use this for many npcs"
         },
         {
             "name": "Farsight [Forge/Neo]",
@@ -686,6 +837,29 @@
             "note": "important consturction mod"
         },
         {
+            "name": "TerraBlender (Forge)",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender",
+            "importance": "high",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.6",
+                "1.20.4",
+                "1.20.3",
+                "1.20.2",
+                "1.20.1",
+                "1.20",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1"
+            ],
+            "note": "prerequisite for Chinjufu"
+        },
+        {
             "name": "The Aether",
             "url": "https://www.curseforge.com/minecraft/mc-mods/aether",
             "importance": "medium",
@@ -760,6 +934,39 @@
                 "1.12.2"
             ],
             "note": "Important combat NPC, contents"
+        },
+        {
+            "name": "Ultimate Car Mod",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod",
+            "importance": "high",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.4",
+                "1.20.3",
+                "1.20.2",
+                "1.20.1",
+                "1.20",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4",
+                "1.16.3",
+                "1.16.2",
+                "1.16.1",
+                "1.15.2",
+                "1.15.1",
+                "1.14.4",
+                "1.12.2",
+                "1.10.2"
+            ],
+            "note": "we have large road in our map"
         },
         {
             "name": "Wall-Jump TXF",
