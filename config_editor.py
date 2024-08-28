@@ -48,8 +48,11 @@ def get_mod_info_from_url(url):
         versions = []
         for version_element in version_elements:
             version_text = version_element.text.strip()
-            if version_text:
-                versions.append(version_text)
+            try:
+                if all(part.isdigit() for part in version_text.split('.')):
+                    versions.append(version_text)
+            except ValueError:
+                continue
 
         # 去重并按降序排序版本信息
         unique_sorted_versions = sorted(set(versions), key=lambda v: [int(x) for x in v.split('.')], reverse=True)

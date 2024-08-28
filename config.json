@@ -1,6 +1,33 @@
 {
     "mods": [
         {
+            "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+            "importance": "medium",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.6",
+                "1.20.5",
+                "1.20.4",
+                "1.20.3",
+                "1.20.2",
+                "1.20.1",
+                "1.20",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5"
+            ],
+            "note": "Client-only, for cute mob"
+        },
+        {
             "name": "Chisels & Bits - For Forge",
             "url": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits",
             "importance": "low",
@@ -69,6 +96,27 @@
             "note": "NPC is important, this is an unofficial version without tested, but better than nothing"
         },
         {
+            "name": "Farsight [Forge/Neo]",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/farsight",
+            "importance": "low",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.2",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5",
+                "1.12.2"
+            ],
+            "note": "Client-only, to enhance the experience"
+        },
+        {
             "name": "The Aether",
             "url": "https://www.curseforge.com/minecraft/mc-mods/aether",
             "importance": "medium",
@@ -82,6 +130,41 @@
                 "1.7.10"
             ],
             "note": "Potential usage in the future && favorite by ScaRet && RPG"
+        },
+        {
+            "name": "Waystones",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+            "importance": "high",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.6",
+                "1.20.4",
+                "1.20.2",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.16.3",
+                "1.16.2",
+                "1.16.1",
+                "1.15.2",
+                "1.14.4",
+                "1.12.2",
+                "1.12.1",
+                "1.12",
+                "1.11.2",
+                "1.11",
+                "1.10.2",
+                "1.7.10"
+            ],
+            "note": "Important waystones"
         },
         {
             "name": "WorldEdit",
@@ -116,7 +199,7 @@
                 "1.8",
                 "1.7.10"
             ],
-            "note": "Just important"
+            "note": "Client-Only, just important"
         }
     ],
     "target_versions": [
