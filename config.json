@@ -28,6 +28,41 @@
             "note": "Client-only, for cute mob"
         },
         {
+            "name": "AmbientSounds 6",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds",
+            "importance": "medium",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.6",
+                "1.20.4",
+                "1.20.2",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4",
+                "1.16.3",
+                "1.15.2",
+                "1.14.4",
+                "1.14.3",
+                "1.13.2",
+                "1.12.2",
+                "1.12.1",
+                "1.12",
+                "1.11.2",
+                "1.10.2",
+                "1.9.4"
+            ],
+            "note": "Just for sound enhancement, but it is really good"
+        },
+        {
             "name": "Carry On",
             "url": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
             "importance": "low",
@@ -80,6 +115,35 @@
                 "1.8.9"
             ],
             "note": "Very few usages"
+        },
+        {
+            "name": "Creeper Confetti",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/creeper-confetti",
+            "importance": "low",
+            "versions": [
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.18.2",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.16.4",
+                "1.16.3",
+                "1.16.1",
+                "1.15.2",
+                "1.14.4",
+                "1.14.2",
+                "1.13.2",
+                "1.12.2",
+                "1.12",
+                "1.11.2",
+                "1.10.2",
+                "1.10",
+                "1.9.4",
+                "1.7.10"
+            ],
+            "note": "Prevent the creeper damage to the blocks, many mods can replace"
         },
         {
             "name": "Curios API (Forge/NeoForge)",
@@ -193,6 +257,38 @@
             "note": "Client-only, for map"
         },
         {
+            "name": "Modernxl 2 furniture mod: In Survival !",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/modernxl-2-in-survival",
+            "importance": "medium",
+            "versions": [
+                "1.20.1",
+                "1.19.2",
+                "1.18.2"
+            ],
+            "note": "We have decided not use old modernxnl, this one needs to be considered"
+        },
+        {
+            "name": "Moonlight Lib",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/selene",
+            "importance": "high",
+            "versions": [
+                "1.21.1",
+                "1.21",
+                "1.20.4",
+                "1.20.1",
+                "1.19.4",
+                "1.19.3",
+                "1.19.2",
+                "1.19.1",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.17.1",
+                "1.16.5"
+            ],
+            "note": "prerequisite for Supplementaries"
+        },
+        {
             "name": "Oculus",
             "url": "https://www.curseforge.com/minecraft/mc-mods/oculus",
             "importance": "medium",
@@ -252,6 +348,49 @@
             "note": "Client-only, for shaders"
         },
         {
+            "name": "SlashBlade",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/slashblade",
+            "importance": "medium",
+            "versions": [
+                "1.20.1",
+                "1.19.2",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.15.2",
+                "1.14.4",
+                "1.12.2",
+                "1.11.2",
+                "1.10.2",
+                "1.10",
+                "1.9.4",
+                "1.9",
+                "1.8.9",
+                "1.7.10"
+            ],
+            "note": "Good weapon mod with some decorations"
+        },
+        {
+            "name": "Supplementaries",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+            "importance": "high",
+            "versions": [
+                "1.20.1",
+                "1.19.4",
+                "1.19.2",
+                "1.19",
+                "1.18.2",
+                "1.18.1",
+                "1.18",
+                "1.17.1",
+                "1.16.5",
+                "1.15.2"
+            ],
+            "note": "furniture mod"
+        },
+        {
             "name": "The Aether",
             "url": "https://www.curseforge.com/minecraft/mc-mods/aether",
             "importance": "medium",
@@ -280,6 +419,20 @@
                 "1.19"
             ],
             "note": "Client-only, indicate the health"
+        },
+        {
+            "name": "Touhou Little Maid",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid",
+            "importance": "",
+            "versions": [
+                "1.20.1",
+                "1.20",
+                "1.19.2",
+                "1.18.2",
+                "1.16.5",
+                "1.12.2"
+            ],
+            "note": "Important combat NPC, contents"
         },
         {
             "name": "Wall-Jump TXF",
